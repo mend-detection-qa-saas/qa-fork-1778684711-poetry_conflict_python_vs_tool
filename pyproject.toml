@@ -6,7 +6,6 @@ authors = ["Test <test@example.com>"]
 
 
 [tool.poetry.dependencies]
-python = "^3.9"
 requests = "^2.31.0"
 Django = "^4.2"  # or ^5.0 for the latest
 flask = "^2.2.5"
